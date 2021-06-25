@@ -1,1 +1,1 @@
-#Esse repósitório guarda os meus aruivos de aprendizado do Curso de teste automatizados com python da ALura
+#Esse repósitório guarda os meus arquivos de aprendizado do Curso de testes automatizados com python da ALura
